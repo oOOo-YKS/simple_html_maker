@@ -1,0 +1,7 @@
+[package]
+name = "simple_html_maker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+html-escape = "0.2.13"
